@@ -1,2 +1,2 @@
 # date-predictor-v2
-Created with CodeSandbox
+Sample react mini project that tells us after x no of days, what day it would be
